@@ -119,6 +119,9 @@ function setDefaults() {
 			case 36:
 			case 37:
 				setOption("headRevCounter", false);
+				setOption("headWayfarerRating", false);
+				setOption("headWayfarerRatingBGColor", "#B7B4E0");
+				setOption("headWayfarerRatingTextColor", "#000000");
 			case 38:
 				setOption("revURLify", true);
 			case 39:
